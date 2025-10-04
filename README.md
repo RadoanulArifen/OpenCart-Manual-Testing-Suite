@@ -37,9 +37,8 @@ The project includes the following key SQA documents:
 - Reported and tracked multiple defects with detailed documentation.  
 - Ensured full traceability between requirements and test results using RTM.
 
-#Author
-#Radoanul Arifen
-#Software Quality Assurance Engineer
+### 👨‍💻 Author: **Radoanul Arifen**
+**Software Quality Assurance Engineer (SQA Enthusiast)** 
 
 
 ## 🚀 How to Use
